@@ -9,6 +9,8 @@ https://flowrug.net/
 
 ⚠️ Educational content only. Not financial advice. Use responsibly.
 
+https://www.youtube.com/watch?v=pvXQ8vJxq9c
+
 # 🎥 What you’ll learn:
 • Accessing the FlowRug Launchpad UI
 • Connecting your Solana wallet (Phantom, Solflare, etc.)
